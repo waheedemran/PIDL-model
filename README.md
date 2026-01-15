@@ -13,6 +13,12 @@ To be updated!
 
 Code is built upon Dr. Archie J. Huang PISE - (https://github.com/arjhuang/pise)
 
+Ref:
+
+A. J. Huang and S. Agarwal, "Physics Informed Deep Learning for Traffic State Estimation: Illustrations with LWR and CTM Models" in IEEE Open Journal of Intelligent Transportation Systems, vol. 3, pp. 503-518, 2022, doi: 10.1109/OJITS.2022.3182925.
+
+A. J. Huang and S. Agarwal, "Physics Informed Deep Learning for Traffic State Estimation" 2020 IEEE 23rd International Conference on Intelligent Transportation Systems (ITSC), Rhodes, Greece, 2020, pp. 1-6
+
 **Contact Information**
 
 For queries and concerns, write to: waheedemran@hotmail.com
